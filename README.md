@@ -22,3 +22,5 @@ __List.c__ - standard list ADT implementation file
 __List.h__ - standard list ADT header file
 
 __Makefile__ - compiles the files
+
+__in.txt__ - first line is number of vertices, after all ordered doubles are edges until 0 0 is found. Once found all ordered doubles after are shortests paths to be found. Then once 0 0 is found again, it means end of file
